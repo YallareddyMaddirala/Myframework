@@ -26,6 +26,7 @@ public class BaseTest {
 		gen.clickonElement("id", "loginbutton");
 		String st=gen.pageTitle();
 		System.out.println(st);
+		System.out.println("st sending my project");
 
 	}
 }
